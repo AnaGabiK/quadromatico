@@ -71,7 +71,7 @@ const IndexPage = () => (
         <p class="compo-login">Usuário:</p>
         <input type="text" class="caixa-texto"></input>
         <p class="compo-login">Senha:</p>
-        <input type="text" class="caixa-texto"></input>
+        <input type="text" class="caixa-texto" type="password"></input>
       </div>
       <button class="botao-login">ACESSAR</button>
     </div>
