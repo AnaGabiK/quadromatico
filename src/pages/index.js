@@ -83,6 +83,3 @@ const IndexPage = () => (
 )
 
 export default IndexPage
-
-let DeployGithub = require('deploy-github');
-DeployGithub.automatic();
